@@ -1,0 +1,1 @@
+const last_names = ['Another last name', 'Another yet last name'];

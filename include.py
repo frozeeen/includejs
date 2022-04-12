@@ -1,6 +1,6 @@
 import re, sys
 
-base_file = "base.js"
+base_file = "src/base.js"
 build_file = "build/build.js"
 
 file = open(base_file)
